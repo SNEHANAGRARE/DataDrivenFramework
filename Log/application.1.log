@@ -1,0 +1,66 @@
+[INFO ] 2022-11-26 18:20:49.276 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-11-26 18:20:57.128 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:20:57.137 [main] TestNGRunner - test has started
+[ERROR] 2022-11-26 18:20:57.146 [main] TestNGRunner - test has been started
+[DEBUG] 2022-11-26 18:21:02.012 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:21:02.015 [main] TestNGRunner - test has started
+[WARN ] 2022-11-26 18:21:22.556 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-11-26 18:21:28.698 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:21:28.702 [main] TestNGRunner - test has started
+[WARN ] 2022-11-26 18:21:49.285 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-11-26 18:32:30.096 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-11-26 18:32:38.761 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:32:38.767 [main] TestNGRunner - test has started
+[ERROR] 2022-11-26 18:32:38.778 [main] TestNGRunner - test has been started
+[DEBUG] 2022-11-26 18:32:44.323 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:32:44.325 [main] TestNGRunner - test has started
+[WARN ] 2022-11-26 18:33:06.317 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-11-26 18:33:11.380 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:33:11.386 [main] TestNGRunner - test has started
+[WARN ] 2022-11-26 18:33:32.752 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-13 17:29:10.319 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-13 17:29:17.107 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-13 17:29:17.112 [main] TestNGRunner - test has started
+[ERROR] 2022-12-13 17:29:17.120 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-13 17:29:21.708 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-13 17:29:21.710 [main] TestNGRunner - test has started
+[WARN ] 2022-12-13 17:29:41.275 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-13 17:29:46.515 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-13 17:29:46.515 [main] TestNGRunner - test has started
+[WARN ] 2022-12-13 17:30:06.670 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-17 16:52:26.398 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 16:52:48.835 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:52:48.945 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 16:52:49.014 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-17 16:53:07.010 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:53:07.013 [main] TestNGRunner - test has started
+[WARN ] 2022-12-17 16:53:30.183 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-17 16:53:36.096 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 16:53:54.547 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:53:54.558 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 16:53:54.575 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-17 16:53:54.909 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:53:54.911 [main] TestNGRunner - test has started
+[DEBUG] 2022-12-17 16:54:08.252 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:54:08.254 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:02:14.692 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:02:26.247 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:02:26.255 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:02:26.275 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-17 17:02:39.164 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:02:39.166 [main] TestNGRunner - test has started
+[DEBUG] 2022-12-17 17:03:33.632 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:03:33.633 [main] TestNGRunner - test has started
+[WARN ] 2022-12-17 17:03:54.095 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-17 17:09:24.795 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:09:38.830 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:09:38.843 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:09:38.863 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-17 17:09:50.842 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:09:50.845 [main] TestNGRunner - test has started
+[WARN ] 2022-12-17 17:10:11.959 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-17 17:10:23.926 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 17:10:23.933 [main] TestNGRunner - test has started
+[WARN ] 2022-12-17 17:10:44.775 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-17 17:11:44.642 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:11:59.617 [main] TestNGRunner - chromehas been launched
