@@ -101,5 +101,6 @@ public void afterTest() {
 public void Suite() {
 	System.out.println("Running from after suite");
 	report.flush();
+	System.out.println("Execution is completely");
 }
 }
